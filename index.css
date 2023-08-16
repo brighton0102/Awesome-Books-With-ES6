@@ -230,6 +230,10 @@ li.active a {
   background: #262626;
 }
 
+.contact-text p {
+  text-align: center;
+}
+
 /* Date */
 
 .date-container {
